@@ -9,7 +9,7 @@ em busca de todos os conhecimentos necessários para criar uma
 aplicação Laravel do zero e melhorei meu conhecimento em PHP.
 
 Em adição, adquiri a habilidade de resolver meus problemas
-na documentação real das lingaugens de programação.
+na documentação real das linguagens de programação.
 
 Apesar de não concluído, adorei a experiência e espero que 
 possa ter mais experiências assim para meu futuro acadêmico e
